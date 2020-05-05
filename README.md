@@ -18,6 +18,6 @@ The scientific calculator is a type of an electronic calculator in which differe
 7. Some super functions (!, ^, 1/x) can be handled easily with this calculator.
 8. pi (3.1416…) can be accessed directly from it.
 9. Expressions involving any combination of the above can be solved by this application.
-10. Any calculation from start to end will be found in ‘history’ option.
+10. Any calculation from start to end will be found in ‘History’ option.
 
 
