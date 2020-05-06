@@ -4,9 +4,10 @@
 The scientific calculator is a type of an electronic calculator in which different complex calculating methods are involved. These methods contain mathematical, scientific and some methods related to engineering. Other than that, the scientific calculators have some features similiar to ordinary calculator in which many kinds of basic calculations can be performed like addition, subtraction, multiplication, division etc. The functions which are involved in scientific calculator are scientific notations, floating point values, trigonometric functions, logarithmic function, fraction, factorial etc. The scientific calculator is used in various fields for example in astronomy, geology, physics, chemistry, somehow in biology as well. This calculator is mostly used by the students studying in school, college and university and also engineers of different sectors. 
 
 ## Requirements
-1.	Language: Java
-2.	Database: SQLite
-3.	IDE: Android Studio
+
+1.	IDE: Android Studio
+2.	Language: Java
+3.	Database: SQLite
 
 ## Features
 1. It has a simple responsive UI design that can be understood easily by all users and fits with all sizes of screens. 
