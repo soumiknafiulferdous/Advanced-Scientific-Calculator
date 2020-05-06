@@ -10,14 +10,14 @@ The scientific calculator is a type of an electronic calculator in which differe
 
 ## Features
 1. It has a simple responsive UI design that can be understood easily by all users and fits with all sizes of screen. 
-2. It will have a natural display and it will show complicated expression on its display.
-3. This application will have specific button for each operation.
+2. The calculator has a standard display and it shows complicated expression on its display.
+3. This application has specific button for each operation.
 4. It can perform all the basic arithmetic operations (+, -, *, /, %).
 5. It can calculate decimal value including floating point number.
 6. Trigonometric functions (sin, cos, tan) and logarithmic function can be performed with it.
 7. Some super functions (!, ^, 1/x) can be handled easily with this calculator.
 8. pi (3.1416…) can be accessed directly from it.
 9. Expressions involving any combination of the above can be solved by this application.
-10. Any calculation from start to end will be found in ‘History’ option.
+10. Any calculation from start to end will be found in the ‘History’ option.
 
 
