@@ -9,7 +9,7 @@ The scientific calculator is a type of an electronic calculator in which differe
 3.	Platform: Android Studio
 
 ## Features
-1. This android application will have a simple responsive UI design that can be understood easily by all users and fits with all sizes of screen. 
+1. It has a simple responsive UI design that can be understood easily by all users and fits with all sizes of screen. 
 2. It will have a natural display and it will show complicated expression on its display.
 3. This application will have specific button for each operation.
 4. It can perform all the basic arithmetic operations (+, -, *, /, %).
