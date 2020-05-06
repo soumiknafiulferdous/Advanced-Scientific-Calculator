@@ -1,6 +1,6 @@
 # Advanced Scientific Calculator (Android App)
 
-## Description
+## Overview
 The scientific calculator is a type of an electronic calculator in which different calculating methods are involved. These methods contain mathematical, scientific and some methods related to engineering. Other than that, the scientific calculators have features as compared to the ordinary calculator in which many kinds of basic calculations can be performed like addition, subtraction, multiplication, division and modulus. The functions which are involved in scientific calculator are scientific notations, floating point values, trigonometric functions, logarithmic function, fraction, factorial etc. The scientific calculator is used in various fields for example in astronomy, geology, physics, chemistry, somehow in biology as well. This calculator is mostly used by the students studying in school, college and university. 
 
 ## Requirements
