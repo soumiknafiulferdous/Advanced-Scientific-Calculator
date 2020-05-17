@@ -23,16 +23,20 @@ The scientific calculator is a type of an electronic calculator in which differe
 
 ## Screenshots
 
-Thumbnail
+Thumbnail:
+
 ![1](https://user-images.githubusercontent.com/30154496/82138326-70252480-9841-11ea-9ed0-167bccca5ab1.jpg)
 
-UI
+User Interface (UI):
+
 ![2](https://user-images.githubusercontent.com/30154496/82138329-72877e80-9841-11ea-8cd0-b989dc926a86.jpg)
 
-Sidebar
+Sidebar:
+
 ![3](https://user-images.githubusercontent.com/30154496/82138330-72877e80-9841-11ea-9c3b-f1537ec376f6.jpg)
 
-History
+History:
+
 ![4](https://user-images.githubusercontent.com/30154496/82138331-73201500-9841-11ea-8a60-e22a0150c2fd.jpg)
 
 
