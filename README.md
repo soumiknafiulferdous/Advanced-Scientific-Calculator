@@ -35,7 +35,7 @@ Sidebar:
 
 ![3](https://user-images.githubusercontent.com/30154496/82138330-72877e80-9841-11ea-9c3b-f1537ec376f6.jpg)
 
-History:
+Calculation History:
 
 ![4](https://user-images.githubusercontent.com/30154496/82138331-73201500-9841-11ea-8a60-e22a0150c2fd.jpg)
 
